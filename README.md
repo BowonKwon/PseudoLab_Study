@@ -6,5 +6,5 @@
 
 ### List
 * Apr 3, 2025    
- (InstructGPT) Training language models to follow instructions with human feedback (Ouyang et al., 2022)    
+ **(InstructGPT)** Training language models to follow instructions with human feedback (Ouyang et al., 2022)    
  https://arxiv.org/abs/2203.02155
