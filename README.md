@@ -15,7 +15,7 @@
 
 * Nov 05, 2025    
  Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 7 - Constant Predictors
- [Youtube](https://www.youtube.com/watch?v=opjG0pQi_yo) [Slides](https://ee104.stanford.edu/lectures/constant_predictors.pdf)
+ [Youtube](https://www.youtube.com/watch?v=opjG0pQi_yo) / [Slides](https://ee104.stanford.edu/lectures/constant_predictors.pdf)
 
 ## 📄 License
 All presentation materials in this repository are licensed under  
