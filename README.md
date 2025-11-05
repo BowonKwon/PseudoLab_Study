@@ -13,6 +13,10 @@
  **(T5)** Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (Raffel et al., 2019)    
  [https://arxiv.org/abs/2203.02155](https://arxiv.org/abs/1910.10683)
 
+* Nov 05, 2025    
+ Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 7 - Constant Predictors
+ [Youtube](https://www.youtube.com/watch?v=opjG0pQi_yo) [Slides](https://ee104.stanford.edu/lectures/constant_predictors.pdf)
+
 ## 📄 License
 All presentation materials in this repository are licensed under  
 **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
